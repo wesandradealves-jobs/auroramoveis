@@ -1,0 +1,645 @@
+{
+  "products": [
+    [
+      {
+        "id": 57,
+        "date": "2020-12-06T12:34:03",
+        "date_gmt": "2020-12-06T12:34:03",
+        "guid": {
+          "rendered": "https://loja.auroramoveis.com.br/?post_type=produtos&#038;p=57"
+        },
+        "modified": "2020-12-06T12:35:21",
+        "modified_gmt": "2020-12-06T12:35:21",
+        "slug": "produto-novo",
+        "status": "publish",
+        "type": "produtos",
+        "link": "https://loja.auroramoveis.com.br/produtos/produto-novo/",
+        "title": {
+          "rendered": "Produto Novo"
+        },
+        "content": {
+          "rendered": "<div class=\"product-description\">\n<p class=\"description\">Serve como: Mesa de Estudo, Mesa de Jantar, Mesa para Notebook e Aparador para sala de estar.<br />\nPés e Tampo de 25 mm<br />\nPossui pés em X, Trava de Segurança, Sapata, Vista.<br />\nPeça decorativa. Pode ambientar seu espaço com essa peça bem moderna.</p>\n<p>Cadeiras NÃO INCLUSAS. A COMPRA É SOMENTE DA MESA.</p>\n</div>\n<h3 class=\"subtitle\">Dimensões</h3>\n<table class=\"table is-striped is-fullwidth\">\n<tbody>\n<tr>\n<td width=\"30%\"><strong>Altura</strong></td>\n<td>80 cm</td>\n</tr>\n<tr>\n<td width=\"30%\"><strong>Largura</strong></td>\n<td>103 cm</td>\n</tr>\n<tr>\n<td width=\"30%\"><strong>Profundidade</strong></td>\n<td>54 cm</td>\n</tr>\n</tbody>\n</table>\n<h3 class=\"subtitle\">Características</h3>\n",
+          "protected": false
+        },
+        "excerpt": {
+          "rendered": "<p>Resumo</p>\n",
+          "protected": false
+        },
+        "featured_media": 58,
+        "template": "",
+        "produtos_categories": [
+          2,
+          7,
+          11
+        ],
+        "acf": {
+          "estoque": false,
+          "ref": "12345",
+          "valor": "14.00",
+          "parcelas": [
+            {
+              "quantidade": "1",
+              "valor": "14"
+            },
+            {
+              "quantidade": "2",
+              "valor": "7"
+            }
+          ],
+          "galeria": [
+            "https://loja.auroramoveis.com.br/wp-content/uploads/2020/12/mesa_versatil_mavaular_4363_2_20200417183359.jpg",
+            "https://loja.auroramoveis.com.br/wp-content/uploads/2020/12/513089906573258.jpg",
+            "https://loja.auroramoveis.com.br/wp-content/uploads/2020/12/040ca50e-2372-402e-9eec-8bcf09e59bbc-scaled-1.jpg"
+          ]
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://loja.auroramoveis.com.br/wp-json/wp/v2/produtos/57"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://loja.auroramoveis.com.br/wp-json/wp/v2/produtos"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://loja.auroramoveis.com.br/wp-json/wp/v2/types/produtos"
+            }
+          ],
+          "wp:featuredmedia": [
+            {
+              "embeddable": true,
+              "href": "https://loja.auroramoveis.com.br/wp-json/wp/v2/media/58"
+            }
+          ],
+          "wp:attachment": [
+            {
+              "href": "https://loja.auroramoveis.com.br/wp-json/wp/v2/media?parent=57"
+            }
+          ],
+          "wp:term": [
+            {
+              "taxonomy": "produtos_categories",
+              "embeddable": true,
+              "href": "https://loja.auroramoveis.com.br/wp-json/wp/v2/produtos_categories?post=57"
+            }
+          ],
+          "curies": [
+            {
+              "name": "wp",
+              "href": "https://api.w.org/{rel}",
+              "templated": true
+            }
+          ]
+        }
+      },
+      {
+        "id": 53,
+        "date": "2020-12-03T07:07:11",
+        "date_gmt": "2020-12-03T07:07:11",
+        "guid": {
+          "rendered": "https://loja.auroramoveis.com.br/?post_type=produtos&#038;p=53"
+        },
+        "modified": "2020-12-06T12:35:21",
+        "modified_gmt": "2020-12-06T12:35:21",
+        "slug": "teste",
+        "status": "publish",
+        "type": "produtos",
+        "link": "https://loja.auroramoveis.com.br/produtos/teste/",
+        "title": {
+          "rendered": "Teste"
+        },
+        "content": {
+          "rendered": "<p>Descrição</p>\n",
+          "protected": false
+        },
+        "excerpt": {
+          "rendered": "<p>Resumo</p>\n",
+          "protected": false
+        },
+        "featured_media": 11,
+        "template": "",
+        "produtos_categories": [
+          2
+        ],
+        "acf": {
+          "estoque": true,
+          "ref": "Ref",
+          "valor": "123",
+          "parcelas": [
+            {
+              "quantidade": "1",
+              "valor": "123"
+            }
+          ],
+          "galeria": [
+            "https://loja.auroramoveis.com.br/wp-content/uploads/2020/12/prod.png"
+          ]
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://loja.auroramoveis.com.br/wp-json/wp/v2/produtos/53"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://loja.auroramoveis.com.br/wp-json/wp/v2/produtos"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://loja.auroramoveis.com.br/wp-json/wp/v2/types/produtos"
+            }
+          ],
+          "wp:featuredmedia": [
+            {
+              "embeddable": true,
+              "href": "https://loja.auroramoveis.com.br/wp-json/wp/v2/media/11"
+            }
+          ],
+          "wp:attachment": [
+            {
+              "href": "https://loja.auroramoveis.com.br/wp-json/wp/v2/media?parent=53"
+            }
+          ],
+          "wp:term": [
+            {
+              "taxonomy": "produtos_categories",
+              "embeddable": true,
+              "href": "https://loja.auroramoveis.com.br/wp-json/wp/v2/produtos_categories?post=53"
+            }
+          ],
+          "curies": [
+            {
+              "name": "wp",
+              "href": "https://api.w.org/{rel}",
+              "templated": true
+            }
+          ]
+        }
+      }
+    ]
+  ],
+  "users": [
+    [
+      {
+        "id": 1,
+        "name": "auroramoveis",
+        "url": "https://loja.auroramoveis.com.br",
+        "description": "",
+        "link": "https://loja.auroramoveis.com.br/author/auroramoveis/",
+        "slug": "auroramoveis",
+        "meta": [],
+        "acf": [],
+        "_links": {
+          "self": [
+            {
+              "href": "https://loja.auroramoveis.com.br/wp-json/wp/v2/users/1"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://loja.auroramoveis.com.br/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ]
+  ],
+  "categories": {
+   "produtos": [
+     {
+        "id":30,
+        "count":0,
+        "description":"",
+        "link":"https:\/\/loja.auroramoveis.com.br\/produtos_categories\/aparadores-mesas-de-decorativas\/",
+        "name":"Aparadores\/Mesas de decorativas",
+        "slug":"aparadores-mesas-de-decorativas",
+        "taxonomy":"produtos_categories",
+        "parent":17,
+        "meta":[
+           
+        ],
+        "acf":[
+           
+        ],
+        "_links":{
+           "self":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories\/30"
+              }
+           ],
+           "collection":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories"
+              }
+           ],
+           "about":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/taxonomies\/produtos_categories"
+              }
+           ],
+           "up":[
+              {
+                 "embeddable":true,
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories\/17"
+              }
+           ],
+           "wp:post_type":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos?produtos_categories=30"
+              }
+           ],
+           "curies":[
+              {
+                 "name":"wp",
+                 "href":"https:\/\/api.w.org\/{rel}",
+                 "templated":true
+              }
+           ]
+        }
+     },
+     {
+        "id":19,
+        "count":0,
+        "description":"",
+        "link":"https:\/\/loja.auroramoveis.com.br\/produtos_categories\/cozinha\/",
+        "name":"Cozinha",
+        "slug":"cozinha",
+        "taxonomy":"produtos_categories",
+        "parent":0,
+        "meta":[
+           
+        ],
+        "acf":[
+           
+        ],
+        "_links":{
+           "self":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories\/19"
+              }
+           ],
+           "collection":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories"
+              }
+           ],
+           "about":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/taxonomies\/produtos_categories"
+              }
+           ],
+           "wp:post_type":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos?produtos_categories=19"
+              }
+           ],
+           "curies":[
+              {
+                 "name":"wp",
+                 "href":"https:\/\/api.w.org\/{rel}",
+                 "templated":true
+              }
+           ]
+        }
+     },
+     {
+        "id":26,
+        "count":0,
+        "description":"",
+        "link":"https:\/\/loja.auroramoveis.com.br\/produtos_categories\/jardim\/",
+        "name":"Jardim",
+        "slug":"jardim",
+        "taxonomy":"produtos_categories",
+        "parent":0,
+        "meta":[
+           
+        ],
+        "acf":[
+           
+        ],
+        "_links":{
+           "self":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories\/26"
+              }
+           ],
+           "collection":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories"
+              }
+           ],
+           "about":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/taxonomies\/produtos_categories"
+              }
+           ],
+           "wp:post_type":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos?produtos_categories=26"
+              }
+           ],
+           "curies":[
+              {
+                 "name":"wp",
+                 "href":"https:\/\/api.w.org\/{rel}",
+                 "templated":true
+              }
+           ]
+        }
+     },
+     {
+        "id":27,
+        "count":0,
+        "description":"",
+        "link":"https:\/\/loja.auroramoveis.com.br\/produtos_categories\/mesa-com-4-cadeiras\/",
+        "name":"Mesa com 4 cadeiras",
+        "slug":"mesa-com-4-cadeiras",
+        "taxonomy":"produtos_categories",
+        "parent":17,
+        "meta":[
+           
+        ],
+        "acf":[
+           
+        ],
+        "_links":{
+           "self":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories\/27"
+              }
+           ],
+           "collection":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories"
+              }
+           ],
+           "about":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/taxonomies\/produtos_categories"
+              }
+           ],
+           "up":[
+              {
+                 "embeddable":true,
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories\/17"
+              }
+           ],
+           "wp:post_type":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos?produtos_categories=27"
+              }
+           ],
+           "curies":[
+              {
+                 "name":"wp",
+                 "href":"https:\/\/api.w.org\/{rel}",
+                 "templated":true
+              }
+           ]
+        }
+     },
+     {
+        "id":28,
+        "count":0,
+        "description":"",
+        "link":"https:\/\/loja.auroramoveis.com.br\/produtos_categories\/mesa-com-6-cadeiras\/",
+        "name":"Mesa com 6 cadeiras",
+        "slug":"mesa-com-6-cadeiras",
+        "taxonomy":"produtos_categories",
+        "parent":17,
+        "meta":[
+           
+        ],
+        "acf":[
+           
+        ],
+        "_links":{
+           "self":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories\/28"
+              }
+           ],
+           "collection":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories"
+              }
+           ],
+           "about":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/taxonomies\/produtos_categories"
+              }
+           ],
+           "up":[
+              {
+                 "embeddable":true,
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories\/17"
+              }
+           ],
+           "wp:post_type":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos?produtos_categories=28"
+              }
+           ],
+           "curies":[
+              {
+                 "name":"wp",
+                 "href":"https:\/\/api.w.org\/{rel}",
+                 "templated":true
+              }
+           ]
+        }
+     },
+     {
+        "id":29,
+        "count":0,
+        "description":"",
+        "link":"https:\/\/loja.auroramoveis.com.br\/produtos_categories\/mesa-com-8-cadeiras\/",
+        "name":"Mesa com 8 cadeiras",
+        "slug":"mesa-com-8-cadeiras",
+        "taxonomy":"produtos_categories",
+        "parent":17,
+        "meta":[
+           
+        ],
+        "acf":[
+           
+        ],
+        "_links":{
+           "self":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories\/29"
+              }
+           ],
+           "collection":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories"
+              }
+           ],
+           "about":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/taxonomies\/produtos_categories"
+              }
+           ],
+           "up":[
+              {
+                 "embeddable":true,
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories\/17"
+              }
+           ],
+           "wp:post_type":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos?produtos_categories=29"
+              }
+           ],
+           "curies":[
+              {
+                 "name":"wp",
+                 "href":"https:\/\/api.w.org\/{rel}",
+                 "templated":true
+              }
+           ]
+        }
+     },
+     {
+        "id":18,
+        "count":1,
+        "description":"",
+        "link":"https:\/\/loja.auroramoveis.com.br\/produtos_categories\/quarto\/",
+        "name":"Quarto",
+        "slug":"quarto",
+        "taxonomy":"produtos_categories",
+        "parent":0,
+        "meta":[
+           
+        ],
+        "acf":[
+           
+        ],
+        "_links":{
+           "self":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories\/18"
+              }
+           ],
+           "collection":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories"
+              }
+           ],
+           "about":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/taxonomies\/produtos_categories"
+              }
+           ],
+           "wp:post_type":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos?produtos_categories=18"
+              }
+           ],
+           "curies":[
+              {
+                 "name":"wp",
+                 "href":"https:\/\/api.w.org\/{rel}",
+                 "templated":true
+              }
+           ]
+        }
+     },
+     {
+        "id":17,
+        "count":0,
+        "description":"",
+        "link":"https:\/\/loja.auroramoveis.com.br\/produtos_categories\/sala-de-jantar\/",
+        "name":"Sala de jantar",
+        "slug":"sala-de-jantar",
+        "taxonomy":"produtos_categories",
+        "parent":0,
+        "meta":[
+           
+        ],
+        "acf":[
+           
+        ],
+        "_links":{
+           "self":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories\/17"
+              }
+           ],
+           "collection":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories"
+              }
+           ],
+           "about":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/taxonomies\/produtos_categories"
+              }
+           ],
+           "wp:post_type":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos?produtos_categories=17"
+              }
+           ],
+           "curies":[
+              {
+                 "name":"wp",
+                 "href":"https:\/\/api.w.org\/{rel}",
+                 "templated":true
+              }
+           ]
+        }
+     },
+     {
+        "id":16,
+        "count":0,
+        "description":"",
+        "link":"https:\/\/loja.auroramoveis.com.br\/produtos_categories\/salal-de-estar\/",
+        "name":"Salal de estar",
+        "slug":"salal-de-estar",
+        "taxonomy":"produtos_categories",
+        "parent":0,
+        "meta":[
+           
+        ],
+        "acf":[
+           
+        ],
+        "_links":{
+           "self":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories\/16"
+              }
+           ],
+           "collection":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos_categories"
+              }
+           ],
+           "about":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/taxonomies\/produtos_categories"
+              }
+           ],
+           "wp:post_type":[
+              {
+                 "href":"https:\/\/loja.auroramoveis.com.br\/wp-json\/wp\/v2\/produtos?produtos_categories=16"
+              }
+           ],
+           "curies":[
+              {
+                 "name":"wp",
+                 "href":"https:\/\/api.w.org\/{rel}",
+                 "templated":true
+              }
+           ]
+        }
+     }
+  ]
+ }
+}
