@@ -1,6 +1,8 @@
 import React from "react";
 
 interface IContextProps {
+	setProducts?: any;
+	products?: any;		
 	setUser?: any;
 	user?: any;	
 	setTitle?: any;

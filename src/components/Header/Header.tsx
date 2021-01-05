@@ -41,6 +41,7 @@ export const Header: React.FC<IHeader> = ({ placeholder }) => {
 			return {
 				id: o.id,
 				label: o.name,
+				thumbnail: o.acf.thumbnail,
 				isActive: o.acf.ativa,
 				isFeatured: o.acf.destaque,
 				path: `/produtos/${o.slug}`,

@@ -43,14 +43,14 @@ export const Navigation: React.FC<INavigation> = ({ horizontal, links }) => {
 								<span>
 									<p>
 										<strong>{o.label}</strong>
-							<small><Link to={
-								{
-									pathname: o.path,
-									state: {
-										title: o.title || o.label
-									}
-								}
-							}>{o.path}</Link> {categories[o.id] ? <i className="fas fa-angle-down"/> : null}</small>
+										<small><Link to={
+											{
+												pathname: o.path,
+												state: {
+													title: o.title || o.label
+												}
+											}
+										}>{o.path}</Link> {categories[o.id] ? <i className="fas fa-angle-down"/> : null}</small>
 									</p>
 								</span>
 							</> :  <Link to={
@@ -64,8 +64,8 @@ export const Navigation: React.FC<INavigation> = ({ horizontal, links }) => {
 
 							{categories[o.id] ? 
 								<Submenu className="submenu">
-									{categories[o.id].map((o:any) => (
-										<NavItem hasIco={o.ico} active={history.location.pathname == o.path ? true : false}>
+									{categories[o.id].map((o:any, index:number) => (
+										<NavItem key={index} hasIco={o.ico} active={history.location.pathname == o.path ? true : false}>
 											<Link to={
 												{
 													pathname: o.path,

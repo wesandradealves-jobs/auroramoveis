@@ -14,6 +14,7 @@ import Spinner from './components/Spinner/Spinner';
 
 export default function App() {
 	const [signMsg, setSignMsg] = useState<any>({});
+	const [products, setProducts] = useState<any>([]);
 	const [registerMsg, setRegisterMsg] = useState<any>({});
 	const [title, setTitle] = useState<any>();
 	const [data, setData] = useState<any>([]);
@@ -62,6 +63,8 @@ export default function App() {
 
 	return (
 		<Context.Provider value={{
+			setProducts: setProducts,
+			products,				
 			setUser: setUser,
 			user,				
 			doLoading: doLoading,
